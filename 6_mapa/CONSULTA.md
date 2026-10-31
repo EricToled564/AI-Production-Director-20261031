@@ -129,7 +129,7 @@ Dice qué hay y en qué línea; lo que vale es siempre el archivo señalado. Se 
 
 **`6_mapa/`**
 
-- `CONSULTA.md`: 254 líneas: L1 Índice del repo (memoria del agente) · L17 1. Archivos del repo (0) · L20 2. Decisiones e instrucciones de Eric (archivo y línea) · L213 3. Pendientes (`PENDIENTES.md`) · L239 4. Corpus: 206 archivos, 141 contenidos distintos, 13,003 textos
+- `CONSULTA.md`: 414 líneas: L1 Índice del repo (memoria del agente) · L17 1. Archivos del repo (94) · L180 2. Decisiones e instrucciones de Eric (archivo y línea) · L373 3. Pendientes (`PENDIENTES.md`) · L399 4. Corpus: 206 archivos, 141 contenidos distintos, 13,003 textos
 - `INVENTARIO_SHA256.md`: 97 líneas: L1 Inventario del repo con sha256
 
 **`6_mapa/herramientas/`**
@@ -172,7 +172,7 @@ Dice qué hay y en qué línea; lo que vale es siempre el archivo señalado. Se 
 
 **`./`**
 
-- `CAMBIOS.md`: 50 líneas: L1 Registro de cambios del repo
+- `CAMBIOS.md`: 51 líneas: L1 Registro de cambios del repo
 - `CLAUDE.md`: sus decisiones, en §2
 - `LEEME.md`: 27 líneas: L1 AI Production Director: sistema que genera prompts · L6 Dónde está cada cosa
 - `PENDIENTES.md`: 45 líneas: L1 Pendientes por etapa · L10 Etapa 1 — Mapa del repositorio (registro de la lectura) · L18 Etapa 2 — Preparación de la clasificación (antes de clasificar el cor… · L43 Etapas siguientes (no empiezan hasta cerrar la etapa 2)
@@ -186,8 +186,9 @@ Dice qué hay y en qué línea; lo que vale es siempre el archivo señalado. Se 
 - L8 **Antes de decir que algo no existe**
 - L16 **Consultar el mapa antes de preguntar o de dar algo por faltante (instrucción de Eric, 202…**
 - L25 **Riesgos, pendientes y avance de etapa (decisión de Eric, 2026-10-29)**
-- L35 **Toda lectura deja registro en el repo**
-- L42 **Basura, auditorías y registro de cambios (instrucción de Eric, 2026-10-30)**
+- L35 **Escribir mientras se trabaja (regla universal, orden de Eric del 2026-11-01)**
+- L42 **Toda lectura deja registro en el repo**
+- L49 **Basura, auditorías y registro de cambios (instrucción de Eric, 2026-10-30)**
 
 **`.claude/rules/DECISIONES.md`**
 

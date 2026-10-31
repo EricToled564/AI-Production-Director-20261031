@@ -92,6 +92,6 @@ Lista cada archivo versionado, salvo este, `CONSULTA.md` y `CAMBIOS.md` (cambian
 | `7_auditorias_y_verificaciones/templates/VERIFICACION_ESTRUCTURAL.json` | `36fb2000b8859ef5b3a6069e89d07e76d1f51c0975936a00a6a00ce10c6ffb48` |
 | `7_auditorias_y_verificaciones/templates/probar_contratos.py` | `5607afb64d6be6914633e7dbbf7b8804bf7636a986c7b82a29843bf7e433b3de` |
 | `7_auditorias_y_verificaciones/templates/verificar_templates.py` | `d5619b01c8bd56faf8529917280da4fb568c2152a777fd3744faf8babaf3ccac` |
-| `CLAUDE.md` | `b55fa30b5dce29369e9618f1dec13ed584c2dfacaa4a6744acdbac45eff0499a` |
+| `CLAUDE.md` | `8a5baffeaf6e6c42f75312819df495c998e761ce3b468b22a0de41177988eec4` |
 | `LEEME.md` | `eb95acd9ae770fe46a129bacbeb6b74a3cf5d24a4894ebf5bcc08c1e36d2c949` |
 | `PENDIENTES.md` | `9fd02f2cfe179ca5430817ef465d2ae6f5bd4469034c407b31ad0f232acd73bd` |

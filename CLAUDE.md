@@ -32,6 +32,13 @@ una decisión o un archivo.
 - Prohibido avanzar a una etapa nueva mientras los pendientes de la etapa anterior no estén cubiertos al 100 %, salvo
   que Eric lo autorice expresamente.
 
+## Escribir mientras se trabaja (regla universal, orden de Eric del 2026-11-01)
+
+Todo trabajo del agente y de cualquier subagente se escribe en disco a medida que se hace, unidad por unidad (cada
+texto clasificado, cada sección leída, cada resultado), nunca solo al final. Si el trabajo se interrumpe, lo hecho queda
+guardado: antes de empezar se lee lo que ya está escrito y se continúa con lo que falta. Todo encargo a un subagente
+lleva esta regla.
+
 ## Toda lectura deja registro en el repo
 
 Una lectura no cuenta como hecha sin su registro en el repo: por texto o por sección, qué dice (con su línea) y qué
